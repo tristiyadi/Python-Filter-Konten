@@ -1,0 +1,63 @@
+[{
+          " IP Address Sumber " : 152.163.66.131 , 
+	  " IP Address Tujuan " : 192.168.43.84 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 60824 ,
+	  " Waktu Alert " : 2016-01-28 11:23:01.076326 
+	  },
+{
+          " IP Address Sumber " : 152.163.66.131 , 
+	  " IP Address Tujuan " : 192.168.43.84 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 60825 ,
+	  " Waktu Alert " : 2016-01-28 11:23:01.104796 
+	  },
+{
+          " IP Address Sumber " : 152.163.66.131 , 
+	  " IP Address Tujuan " : 192.168.43.84 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 60825 ,
+	  " Waktu Alert " : 2016-01-28 11:23:01.458673 
+	  },
+{
+          " IP Address Sumber " : 152.163.66.131 , 
+	  " IP Address Tujuan " : 192.168.43.84 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 60824 ,
+	  " Waktu Alert " : 2016-01-28 11:23:01.469334 
+	  },
+{
+          " IP Address Sumber " : 173.241.248.219 , 
+	  " IP Address Tujuan " : 192.168.43.84 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 50865 ,
+	  " Waktu Alert " : 2016-01-28 11:23:01.474944 
+	  },
+{
+          " IP Address Sumber " : 173.241.248.219 , 
+	  " IP Address Tujuan " : 192.168.43.84 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 50871 ,
+	  " Waktu Alert " : 2016-01-28 11:23:01.505191 
+	  },
+{
+          " IP Address Sumber " : 174.36.55.94 , 
+	  " IP Address Tujuan " : 192.168.43.42 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 40041 ,
+	  " Waktu Alert " : 2016-01-28 23:10:57.743893 
+	  },
+
+{         " IP Address Sumber " : 174.36.55.94 , 
+	  " IP Address Tujuan " : 192.168.43.42 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 40224 ,
+	  " Waktu Alert " : 2016-01-28 23:17:32.601406 
+	  },
+{
+          " IP Address Sumber " : 174.36.55.94 , 
+	  " IP Address Tujuan " : 192.168.43.42 ,
+	  " Port IP Sumber " : 80 ,
+	  " Port IP Tujuan " : 40224 ,
+	  " Waktu Alert " : 2016-01-28 23:17:33.228814 
+	  }]
