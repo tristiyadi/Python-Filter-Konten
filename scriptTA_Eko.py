@@ -36,7 +36,7 @@ if not os.geteuid()==0:
 def logo():
     print colorred.format("-######################################################################-")
     print colorgrn.format("- FILTER PAKET INTERNET MENGGUNAKAN PYTHON PAKAI FILTER STRING SOCKET  -")
-    print colorblu.format("-  mail me: ekotristiyadi@if.uai.ac.id      [ IF 12 UAI ] Version-1.0  -")
+    print colorblu.format("-   mail me: ekoinfor12@gmail.com           [ IF 12 UAI ] Version-1.0  -")
     print colorred.format("-######################################################################-\n")
 
 def pakets(setup,filter_konten):
