@@ -6,7 +6,7 @@
 # Coder By : Eko Tristiyadi
 # Algorthma saya menggunakan string matching untuk match text filter_
 # string pada ip header data = packet
-# if re.search(filter_string,packet): lakukan pencarian
+# if re.search(filter_konten,paket): lakukan pencarian
 #-----------------------------------------------
 
 # Selanjutnya adalah handling block ip address dan parsing ip address source ke firewall
